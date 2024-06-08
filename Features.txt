@@ -1,0 +1,48 @@
+Users 
+Guest
+Tourist 
+TourToPK_Admin
+TourToPK_Content_manager
+Hotel_Manager
+Tour_Operator
+
+Auth
+-------------------
+Login 
+SignUp
+forgot password
+email verification 
+
+tourist view
+-------------------
+tourist profile
+Home page
+places page
+place detail page
+rating and review to place
+give rating and review to place
+liked places
+search for places 
+filter for places
+user Preference
+hotel page
+hotel detail page
+search for hotels
+filter for hotels
+hotel booking 
+show booking  page
+email notification for booking to both hotel manger or touist
+give rating and review to hotels
+contact form ( tourist query, hotel manger, tour operator )
+packages page
+package detail page
+view rating and review to packages
+give rating and review to packages
+search for packages
+filters for packages
+
+recommended page
+recommended detail page 
+search for recommended plans
+filters for recommended plans
+custom tour plan Toursit can choose his/her preferecne and make his/her custom tour plan ( download pdf )
