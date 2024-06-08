@@ -46,3 +46,49 @@ recommended detail page
 search for recommended plans
 filters for recommended plans
 custom tour plan Toursit can choose his/her preferecne and make his/her custom tour plan ( download pdf )
+
+
+
+
+static pages
+------------------------
+about pakistan 
+slider ( famous places )
+faqs
+tearms n conditions
+aboutUs
+privacy policy
+
+TourToPK_Admin
+------------------------
+home page 
+view and delete places
+View  and delete Recomented Plans
+view and delete hotels
+View and delete packages
+create account to tourOperator and hotel manager
+View Tourst
+
+TourToPK_Content_Manager
+--------------------------
+home page
+Manages (CRUD) Places
+Manages (CRUD) Recommended Plans
+User Preference 
+
+Hotel_Manager 
+------------------------
+home page
+hotel manager profile
+Manages(CRUD) Hotels
+Booking
+show booking to each manage
+
+
+Tour_Operator
+---------------------
+Home page
+hotel manager profile
+Manages (CRUD) Packages
+
+
