@@ -11,7 +11,7 @@ Auth
 Login 
 SignUp
 forgot password
-email verification 
+email verification pin code
 
 tourist view
 -------------------
@@ -29,10 +29,11 @@ hotel page
 hotel detail page
 search for hotels
 filter for hotels
-hotel booking 
-show booking  page
-email notification for booking to both hotel manger or touist
 give rating and review to hotels
+hotel booking 
+show booking  page popup
+email notification for booking to both hotel manger or touist
+
 contact form ( tourist query, hotel manger, tour operator )
 packages page
 package detail page
@@ -67,22 +68,21 @@ View  and delete Recomented Plans
 view and delete hotels
 View and delete packages
 create account to tourOperator and hotel manager
-View Tourst
+View Tourst and partner
 
 TourToPK_Content_Manager
 --------------------------
 home page
 Manages (CRUD) Places
 Manages (CRUD) Recommended Plans
-User Preference 
+User Preference view and delete
 
 Hotel_Manager 
 ------------------------
 home page
 hotel manager profile
 Manages(CRUD) Hotels
-Booking
-show booking to each manage
+view and delete booking
 
 
 Tour_Operator
